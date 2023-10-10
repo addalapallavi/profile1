@@ -1,0 +1,51 @@
+body
+{
+    background-image: url("https://res.cloudinary.com/diht3xqze/image/upload/v1696575844/samples/cup-on-a-table.jpg");
+    background-size: 150%;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile-box{
+    background: red;
+   text-align: center;
+    padding: 40px 50px;
+    color: #fff;
+    position: relative;
+    border-radius: 50px;
+}
+.download
+{
+    width: 45px;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+}
+.download1
+{
+  width: 45px;
+    position: absolute;
+    right: 40px;
+    top: 40px;   
+}
+.download2{
+    border-radius: 50%;
+    background: #fff;
+    padding: 6px;
+    margin-top: 40px; 
+}
+.pallavi{
+    text-justify: auto;
+    text-overflow:clip;
+}
+.table{
+    position: meddle;
+}
+
+.download4{
+    border-radius: 100%;
+}
+.download3{
+    border-radius: 100%;
+}
